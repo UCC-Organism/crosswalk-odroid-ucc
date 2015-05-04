@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"לא ניתן להשלים את הפעולה הקודמת עקב מחסור בזיכרון"</string>
+<string name="opening_file_error">"פתיחת הקובץ הנבחר נכשלה"</string>
+<string name="color_picker_button_more">"עוד"</string>
+<string name="color_picker_hue">"גוון"</string>
+<string name="color_picker_saturation">"רווייה"</string>
+<string name="color_picker_value">"ערך"</string>
+<string name="color_picker_button_set">"הגדר"</string>
+<string name="color_picker_button_cancel">"ביטול"</string>
+<string name="color_picker_dialog_title">"בחירת צבע"</string>
+</resources>

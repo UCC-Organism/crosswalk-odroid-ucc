@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Предишната операция не можа да завърши поради недостиг на памет"</string>
+<string name="opening_file_error">"Файлът не можа да се отвори"</string>
+<string name="color_picker_button_more">"Още"</string>
+<string name="color_picker_hue">"Цветови тон"</string>
+<string name="color_picker_saturation">"Насищане"</string>
+<string name="color_picker_value">"Стойност"</string>
+<string name="color_picker_button_set">"Задаване"</string>
+<string name="color_picker_button_cancel">"Отказ"</string>
+<string name="color_picker_dialog_title">"Избор на цвят"</string>
+</resources>

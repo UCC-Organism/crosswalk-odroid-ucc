@@ -1,0 +1,6 @@
+{
+    "name": "uccextension",
+    "class" : "org.ucc.extension.UCCExtension",
+    "jsapi" : "ucc_extension.js",
+    "permissions" : []
+}

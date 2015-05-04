@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.3">
+  <info organisation="org.ucc.extension" module="ucc-extension" />
+  <dependencies>
+<!--    <dependency org="com.google.android"
+                name="android"
+                rev="4.4.2"
+                conf="default->master" />
+ -->
+  </dependencies>
+</ivy-module>

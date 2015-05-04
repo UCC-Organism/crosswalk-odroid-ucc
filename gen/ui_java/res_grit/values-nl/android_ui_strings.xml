@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Kan vorige bewerking niet voltooien. Te weinig geheugen"</string>
+<string name="opening_file_error">"Kan geselec. bestand niet openen"</string>
+<string name="color_picker_button_more">"Meer"</string>
+<string name="color_picker_hue">"Kleurtoon"</string>
+<string name="color_picker_saturation">"Verzadiging"</string>
+<string name="color_picker_value">"Waarde"</string>
+<string name="color_picker_button_set">"Instellen"</string>
+<string name="color_picker_button_cancel">"Annuleren"</string>
+<string name="color_picker_dialog_title">"Kleur selecteren"</string>
+</resources>

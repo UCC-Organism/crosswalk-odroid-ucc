@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Није могуће довршити претходну радњу због недостатка меморије"</string>
+<string name="opening_file_error">"Неуспешно отварање изабр. датот."</string>
+<string name="color_picker_button_more">"Више"</string>
+<string name="color_picker_hue">"Нијанса"</string>
+<string name="color_picker_saturation">"Засићеност боја"</string>
+<string name="color_picker_value">"Вредност"</string>
+<string name="color_picker_button_set">"Постави"</string>
+<string name="color_picker_button_cancel">"Откажи"</string>
+<string name="color_picker_dialog_title">"Изаберите боју"</string>
+</resources>

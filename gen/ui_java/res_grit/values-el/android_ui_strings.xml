@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Δεν ήταν δυνατή η ολοκλήρωση της προηγούμενης λειτουργίας λόγω χαμηλού επιπέδου μνήμης"</string>
+<string name="opening_file_error">"Αποτυχ. ανοίγμ. επιλεγμ. αρχείου"</string>
+<string name="color_picker_button_more">"Περισσότερα"</string>
+<string name="color_picker_hue">"Απόχρωση"</string>
+<string name="color_picker_saturation">"Κορεσμός"</string>
+<string name="color_picker_value">"Τιμή"</string>
+<string name="color_picker_button_set">"Ορισμός"</string>
+<string name="color_picker_button_cancel">"Ακύρωση"</string>
+<string name="color_picker_dialog_title">"Επιλογή χρώματος"</string>
+</resources>

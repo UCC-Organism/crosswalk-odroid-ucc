@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Nije moguće dovršiti prethodnu operaciju jer nema dovoljno memorije"</string>
+<string name="opening_file_error">"Odabrana datoteka nije otvorena"</string>
+<string name="color_picker_button_more">"Više"</string>
+<string name="color_picker_hue">"Ton"</string>
+<string name="color_picker_saturation">"Zasićenje"</string>
+<string name="color_picker_value">"Vrijednost"</string>
+<string name="color_picker_button_set">"Postavi"</string>
+<string name="color_picker_button_cancel">"Odustani"</string>
+<string name="color_picker_dialog_title">"Odaberite boju"</string>
+</resources>

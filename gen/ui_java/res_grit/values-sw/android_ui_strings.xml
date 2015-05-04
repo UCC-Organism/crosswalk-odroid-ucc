@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Imeshindwa kukamilisha jukumu lililotangulia kwa sababu ya nafasi ndogo ya hifadhi"</string>
+<string name="opening_file_error">"Imeshindwa kufungua faili iliyochaguliwa"</string>
+<string name="color_picker_button_more">"Zaidi"</string>
+<string name="color_picker_hue">"Rangi"</string>
+<string name="color_picker_saturation">"Kukolea"</string>
+<string name="color_picker_value">"Thamani"</string>
+<string name="color_picker_button_set">"Weka"</string>
+<string name="color_picker_button_cancel">"Ghairi"</string>
+<string name="color_picker_dialog_title">"Chagua rangi"</string>
+</resources>

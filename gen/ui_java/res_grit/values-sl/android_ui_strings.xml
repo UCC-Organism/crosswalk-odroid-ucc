@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Prejšnjega dejanja ni mogoče končati, ker primanjkuje pomnilnika"</string>
+<string name="opening_file_error">"Izb. dat. ni bilo mogoče odpreti"</string>
+<string name="color_picker_button_more">"Več"</string>
+<string name="color_picker_hue">"Odtenek"</string>
+<string name="color_picker_saturation">"Nasičenost"</string>
+<string name="color_picker_value">"Vrednost"</string>
+<string name="color_picker_button_set">"Nastavi"</string>
+<string name="color_picker_button_cancel">"Prekliči"</string>
+<string name="color_picker_dialog_title">"Izbira barve"</string>
+</resources>

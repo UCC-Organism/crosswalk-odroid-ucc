@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Bellek yetersiz olduğundan önceki işlem tamamlanamadı"</string>
+<string name="opening_file_error">"Seçilen dosya açılamadı"</string>
+<string name="color_picker_button_more">"Daha fazla"</string>
+<string name="color_picker_hue">"Ton"</string>
+<string name="color_picker_saturation">"Doygunluk"</string>
+<string name="color_picker_value">"Değer"</string>
+<string name="color_picker_button_set">"Ayarla"</string>
+<string name="color_picker_button_cancel">"İptal"</string>
+<string name="color_picker_dialog_title">"Renk seçin"</string>
+</resources>

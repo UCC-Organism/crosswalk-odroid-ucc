@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"به دلیل کم بودن حافظه، تکمیل عملیات قبلی امکان‌پذیر نیست"</string>
+<string name="opening_file_error">"باز کردن فایل انتخابی انجام نشد"</string>
+<string name="color_picker_button_more">"بیشتر"</string>
+<string name="color_picker_hue">"رنگ‌مایه"</string>
+<string name="color_picker_saturation">"اشباع"</string>
+<string name="color_picker_value">"مقدار"</string>
+<string name="color_picker_button_set">"تنظیم"</string>
+<string name="color_picker_button_cancel">"لغو"</string>
+<string name="color_picker_dialog_title">"انتخاب رنگ"</string>
+</resources>

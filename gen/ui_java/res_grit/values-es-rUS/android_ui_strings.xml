@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Memoria insuficiente para completar la operación anterior"</string>
+<string name="opening_file_error">"Error al abrir el archivo"</string>
+<string name="color_picker_button_more">"Más"</string>
+<string name="color_picker_hue">"Tono"</string>
+<string name="color_picker_saturation">"Saturación"</string>
+<string name="color_picker_value">"Valor"</string>
+<string name="color_picker_button_set">"Establecer"</string>
+<string name="color_picker_button_cancel">"Cancelar"</string>
+<string name="color_picker_dialog_title">"Seleccionar color"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Edellistä toimintoa ei voi suorittaa. Muisti ei riitä."</string>
+<string name="opening_file_error">"Valittua tiedostoa ei voi avata"</string>
+<string name="color_picker_button_more">"Lisää"</string>
+<string name="color_picker_hue">"Sävy"</string>
+<string name="color_picker_saturation">"Värikylläisyys"</string>
+<string name="color_picker_value">"Arvo"</string>
+<string name="color_picker_button_set">"Aseta"</string>
+<string name="color_picker_button_cancel">"Peruuta"</string>
+<string name="color_picker_dialog_title">"Valitse väri"</string>
+</resources>

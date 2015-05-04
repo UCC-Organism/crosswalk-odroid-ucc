@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Не вдається закінчити попередню операцію через нестачу пам’яті"</string>
+<string name="opening_file_error">"Не вдалося відкрити файл"</string>
+<string name="color_picker_button_more">"Більше"</string>
+<string name="color_picker_hue">"Тон"</string>
+<string name="color_picker_saturation">"Насиченість"</string>
+<string name="color_picker_value">"Яскравість"</string>
+<string name="color_picker_button_set">"Встановити"</string>
+<string name="color_picker_button_cancel">"Скасувати"</string>
+<string name="color_picker_dialog_title">"Вибрати колір"</string>
+</resources>

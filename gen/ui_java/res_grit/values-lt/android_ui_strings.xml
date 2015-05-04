@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Nepavyko baigti ankstesnio veiksmo dėl atminties trūkumo"</string>
+<string name="opening_file_error">"Atid. pasir. failą įvyko klaida"</string>
+<string name="color_picker_button_more">"Daugiau"</string>
+<string name="color_picker_hue">"Spalva"</string>
+<string name="color_picker_saturation">"Spalvų sodrumas"</string>
+<string name="color_picker_value">"Reikšmė"</string>
+<string name="color_picker_button_set">"Nustatyti"</string>
+<string name="color_picker_button_cancel">"Atšaukti"</string>
+<string name="color_picker_dialog_title">"Pasirinkite spalvą"</string>
+</resources>

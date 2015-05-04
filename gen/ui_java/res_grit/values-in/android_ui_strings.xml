@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="low_memory_error">"Tidak dapat menyelesaikan operasi sebelumnya karena sisa memori sedikit"</string>
+<string name="opening_file_error">"Gagal membuka file terpilih"</string>
+<string name="color_picker_button_more">"Lainnya"</string>
+<string name="color_picker_hue">"Rona"</string>
+<string name="color_picker_saturation">"Saturasi"</string>
+<string name="color_picker_value">"Nilai"</string>
+<string name="color_picker_button_set">"Setel"</string>
+<string name="color_picker_button_cancel">"Batal"</string>
+<string name="color_picker_dialog_title">"Pilih warna"</string>
+</resources>
