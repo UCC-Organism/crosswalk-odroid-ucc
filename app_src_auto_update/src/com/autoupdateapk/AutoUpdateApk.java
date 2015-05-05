@@ -386,10 +386,14 @@ public class AutoUpdateApk extends Observable {
 											.substring(result[1]
 													.lastIndexOf('/') + 1)
 											+ ".apk";
+
+									Log_v(TAG, fname);
+
 									FileOutputStream fos = context
 											.openFileOutput(fname,
 													Context.MODE_WORLD_READABLE);
 									entity.writeTo(fos);
+
 									fos.close();
 									result[1] = fname;
 								}

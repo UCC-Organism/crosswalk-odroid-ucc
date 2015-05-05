@@ -59,6 +59,10 @@ public class SilentAutoUpdate extends AutoUpdateApk {
 	protected void raise_notification() {
 		String update_file = preferences.getString(UPDATE_FILE, "");
 		boolean silent_update_failed = preferences.getBoolean(SILENT_FAILED, false);
+
+		if(silent_update_failed)
+			Log_e(TAG, "silent update failed...");
+
 		if( update_file.length() > 0 && !silent_update_failed ) {
 			final String libs = "LD_LIBRARY_PATH=/vendor/lib:/system/lib ";
 			final String[] commands = {
@@ -127,8 +131,10 @@ public class SilentAutoUpdate extends AutoUpdateApk {
 			p.waitFor();
 			Log_e(TAG, output.trim() + " (" + p.exitValue() + ")");
 		} catch (IOException e) {
+			Log_e(TAG, "IOException...");
 			Log_e(TAG, e.getMessage());
 		} catch (InterruptedException e) {
+			Log_e(TAG, "InterruptedException...");
 			Log_e(TAG, e.getMessage());
 		}
 	}
