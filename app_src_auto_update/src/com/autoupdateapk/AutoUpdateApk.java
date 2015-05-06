@@ -290,8 +290,7 @@ public class AutoUpdateApk extends Observable {
 		} else {
 			Log_w(TAG, "unable to find application label");
 		}
-		if (new File(appinfo.sourceDir).lastModified() > preferences.getLong(
-				MD5_TIME, 0)) {
+		if (new File(appinfo.sourceDir).lastModified() > preferences.getLong(MD5_TIME, 0)) {
 			preferences.edit().putString(MD5_KEY, MD5Hex(appinfo.sourceDir))
 					.commit();
 			preferences.edit().putLong(MD5_TIME, System.currentTimeMillis())
@@ -306,6 +305,10 @@ public class AutoUpdateApk extends Observable {
 				}
 			}
 		}
+
+		// hack
+		preferences.edit().remove(SILENT_FAILED).commit();
+
 		raise_notification();
 
 		if (haveInternetPermissions()) {
@@ -437,8 +440,11 @@ public class AutoUpdateApk extends Observable {
 
 		protected void onPostExecute(String[] result) {
 			// kill progress bar here
+
 			if (result != null) {
+
 				if (result[0].equalsIgnoreCase("have update")) {
+
 					preferences.edit().putString(UPDATE_FILE, result[1])
 							.commit();
 
