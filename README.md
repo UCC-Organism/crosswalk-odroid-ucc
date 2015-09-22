@@ -3,7 +3,7 @@
 
 ## Dependencies
 
-1. Android SDK - https://developer.android.com/sdk/installing/index.html?pkg=tools 
+**Android SDK** - https://developer.android.com/sdk/installing/index.html?pkg=tools 
 
 To set the SDK
 
@@ -17,10 +17,10 @@ Select the following:
 	Android 5.0.1 API 21
 
 
-2. Apache ANT - http://ant.apache.org/bindownload.cgi
+**Apache ANT** - http://ant.apache.org/bindownload.cgi
 
 
-Installation 
+## Installation 
 
 	git clone https://github.com/UCC-Organism/crosswalk-odroid-ucc.git
 
