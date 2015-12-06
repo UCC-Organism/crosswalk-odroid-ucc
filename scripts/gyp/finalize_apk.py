@@ -31,7 +31,7 @@ def SignApk(keystore_path, unsigned_path, signed_path, alias, code):
 
 def AlignApk(android_sdk_root, unaligned_path, final_path):
   align_cmd = [
-      os.path.join(android_sdk_root, 'tools', 'zipalign'),
+      os.path.join(android_sdk_root, 'build-tools', '20.0.0', 'zipalign'),
       '-f', '4',  # 4 bytes
       unaligned_path,
       final_path
