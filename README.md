@@ -25,7 +25,7 @@ Installation
 	git clone https://github.com/UCC-Organism/crosswalk-odroid-ucc.git
 
 
-Edit the file **setenv.sh** to point to you system’s Android SDK and ANT directories
+Edit the file **setenv.sh** to point to you system’s Android SDK, ANT and CROSSWALK (aka. XWALK) directories
 
 
 ## Building Apks
