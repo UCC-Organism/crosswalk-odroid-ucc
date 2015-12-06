@@ -38,6 +38,10 @@ this should create an APK in the current folder named after the information foun
 
 NOTE: The Manifest.json file is defined in the build directory created by the bundle.sh script of https://github.com/UCC-Organism/ucc-organism
 
+NOTE: SDK Build-Tools 20 and zipalign issues 
+
+scripts/gyp/finalize_apk.py - line 34: os.path.join(android_sdk_root, 'build-tools', '20.0.0', 'zipalign'),
+
 # Install Built APK on ODROID
 
 If your ODROID is connected to the internet (or the LAN), it could be preferable to access it using the network (rather than USB). 
@@ -58,6 +62,9 @@ NOTE: You can lookup your ODROID’s IP using the SSH app installed on the machi
 3. Debug information (stdout, stderr, etc) can be access through
 
 	adb logcat
+
+
+
 
 
 
